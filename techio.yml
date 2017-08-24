@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Haskell template
 
 plan:
-  - title: Python Snippet
+  - title: Haskell Snippet
     statement: statement.md

@@ -1,5 +1,4 @@
-title: Simple Haskell template
-
+title: Simple Haskell Template
 plan:
-  - title: Haskell Snippet
-    statement: statement.md
+- title: Haskell Snippet
+  statement: statement.md
